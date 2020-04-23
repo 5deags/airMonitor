@@ -299,7 +299,7 @@ void loop() {
 
     // TEMP AVERAGE BASED ON 2 SENSORS
 
-    TEMPavg = (BMPtemp + HDCtemp)/2 - 4;
+    TEMPavg = (BMPtemp + HDCtemp)/2 - 5;
     
     
     // %
